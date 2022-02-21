@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roboticapratica&label=Profile%20views&color=0e75b6&style=flat" alt="roboticapratica" /> </p>
 
-<p align="left"> <a href="https://twitter.com/joseassis" target="blank"><img src="https://img.shields.io/twitter/follow/@joseassis?logo=twitter&style=for-the-badge" alt="@joseassis" /></a> </p>
-
 - 🔭 No momento estou trabalhando com [Programação, Linux e Arduino](https://www.youtube.com/c/RoboticapraticaBr)
 
 - 🌱 Atualmente estou estudando **Eletrônica e Arduino**
 
-- 👯 Procuro colaborar com: [Robótica Educacional](https://github.com/roboticapratica/)
+- 👯 Procuro colaborar com [robótica educacional](https://github.com/roboticapratica/)
 
 - 🤝 Procuro ajuda para [divulgar o meu canal do YouTube](https://www.youtube.com/c/RoboticapraticaBr)
 
@@ -21,7 +19,7 @@
 
 - 📫 Contato: **josedeassisfilho@gmail.com**
 
-- 📄 Sobre: [https://www.linkedin.com/in/professorjosedeassis/](https://www.linkedin.com/in/professorjosedeassis/)
+- 📄 Currículo: [https://www.linkedin.com/in/professorjosedeassis/](https://www.linkedin.com/in/professorjosedeassis/)
 
 - ⚡ Fato engraçado sobre mim: **Imito perfeitamente a buzina de um fusca**
 
