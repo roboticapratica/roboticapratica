@@ -1,25 +1,25 @@
-<h1 align="center">Olá👋, eu sou o professor José de Assis</h1>
+![banner](https://github.com/roboticapratica/site/blob/main/img/banner.jpg?raw=true)
+
+<h1 align="center">Olá humanos! Sejam bem-vindos</h1>
 <h3 align="center">Aqui você encontra projetos de Robótica Educacional e Arduino.</h3>
+<img align="right" alt="hal9000" src="https://github.com/roboticapratica/site/blob/main/img/robotica%20pratica.png?raw=true">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roboticapratica&label=Profile%20views&color=0e75b6&style=flat" alt="roboticapratica" /> </p>
 
-- 🔭 No momento estou trabalhando com [Programação, Linux e Arduino](https://www.youtube.com/c/RoboticapraticaBr)
+- 🤖 Robôs não podem ferir um ser humano ou, por omissão permitir que um ser humano sofra algum mal.
 
-- 🌱 Atualmente estou estudando **Eletrônica e Arduino**
+- 👁️ Atualmente estou me aperfeiçoando em  **Eletrônica e Arduino**
 
-- 👯 Procuro colaborar com [robótica educacional](https://github.com/roboticapratica/)
+- 📺 Inscreva-se no meu canal do YouTube! - [INSCREVER-SE](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 
-- 🤝 Procuro ajuda para [divulgar o meu canal do YouTube](https://www.youtube.com/c/RoboticapraticaBr)
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://www.youtube.com/c/RoboticapraticaBr](https://www.youtube.com/c/RoboticapraticaBr)
-
-- 📝 Escrevo regularmente no site: [https://roboticapratica.com.br/](https://roboticapratica.com.br/)
+- 🔗 Website: [roboticapratica.com.br](https://roboticapratica.com.br/)
 
 - 💬 Pergunte-me sobre **Arduino e Robótica Educacional**
 
 - 📫 Contato: **josedeassisfilho@gmail.com**
 
-- 📄 Currículo: [https://www.linkedin.com/in/professorjosedeassis/](https://www.linkedin.com/in/professorjosedeassis/)
+- 👨‍🏫 Sobre mim: [Professor José de Assis](https://www.linkedin.com/in/professorjosedeassis/)
 
 - ⚡ Fato engraçado sobre mim: **Imito perfeitamente a buzina de um fusca**
 
