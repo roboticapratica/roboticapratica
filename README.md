@@ -4,8 +4,7 @@
 <h3 align="center">Aqui você encontra projetos de Robótica Educacional e Arduino.</h3>
 <img align="right" alt="hal9000" src="https://github.com/roboticapratica/site/blob/main/img/robotica%20pratica.png?raw=true">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roboticapratica&label=Profile%20views&color=0e75b6&style=flat" alt="roboticapratica" /> </p>
+![](https://komarev.com/ghpvc/?username=roboticapratica)
 
 - 🤖 Robôs não podem ferir um ser humano ou, por omissão permitir que um ser humano sofra algum mal.
 
