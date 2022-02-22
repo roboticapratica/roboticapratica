@@ -2,7 +2,6 @@
 
 <h1 align="center">Olá humanos! Sejam bem-vindos</h1>
 <h3 align="center">Aqui você encontra projetos de Robótica Educacional e Arduino.</h3>
-<img align="right" alt="hal9000" src="https://github.com/roboticapratica/site/blob/main/img/robotica%20pratica.png?raw=true">
 
 ![](https://komarev.com/ghpvc/?username=roboticapratica)
 
