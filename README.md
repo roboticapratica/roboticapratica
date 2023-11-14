@@ -1,6 +1,6 @@
 ![banner](https://github.com/roboticapratica/site/blob/main/img/bannerrobo.jpg?raw=true)
 
-<h1 align="center">Olá humano! Boas-vindas!</h1>
+<h1 align="center">Olá, humano. Boas-vindas!</h1>
 <h3 align="center">Aqui você encontra tutoriais e projetos de Robótica Educacional e Arduino.</h3>
 
 ![](https://komarev.com/ghpvc/?username=roboticapratica)
